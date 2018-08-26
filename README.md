@@ -9,3 +9,7 @@ A hypothetical national chain of tool rental stores, “Tools-4-Rent!”, has de
 
 # Technical Approach:
 ![Figure 1-1](https://camo.githubusercontent.com/033fc85bbb11169255a971c58b579d37d76c86dc/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f68657265696e706974747362757267682f7a6968616e782e636f6d2f6869705f74656368312e706e67)
+
+# In Progress:
+
+Deploy the web application on the Heroku.
